@@ -1,0 +1,65 @@
+{
+	"meta": {
+		"image": "tile-sprite.png",
+		"size": {"w":776,"h":448},
+		"scale": "1"
+	},
+	"frames": {
+		"land.beach-corner.tile.png":
+		{
+			"frame": {"x":0,"y":0,"w":194,"h":224},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":194,"h":224},
+			"sourceSize": {"w":194,"h":224}
+		},
+		"land.beach-counter-corner.tile.png":
+		{
+			"frame": {"x":194,"y":0,"w":194,"h":224},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":194,"h":224},
+			"sourceSize": {"w":194,"h":224}
+		},
+		"land.beach-double-corner.tile.png":
+		{
+			"frame": {"x":388,"y":0,"w":194,"h":224},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":194,"h":224},
+			"sourceSize": {"w":194,"h":224}
+		},
+		"land.beach-right-corner.tile.png":
+		{
+			"frame": {"x":0,"y":224,"w":194,"h":224},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":194,"h":224},
+			"sourceSize": {"w":194,"h":224}
+		},
+		"land.beach.tile.png":
+		{
+			"frame": {"x":194,"y":224,"w":194,"h":224},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":194,"h":224},
+			"sourceSize": {"w":194,"h":224}
+		},
+		"land.grass.tile.png":
+		{
+			"frame": {"x":388,"y":224,"w":194,"h":224},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":194,"h":224},
+			"sourceSize": {"w":194,"h":224}
+		},
+		"water.waves.tile.png":
+		{
+			"frame": {"x":582,"y":0,"w":194,"h":224},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":194,"h":224},
+			"sourceSize": {"w":194,"h":224}
+		}
+	}
+}

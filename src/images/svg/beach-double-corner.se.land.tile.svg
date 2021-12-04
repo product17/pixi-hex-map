@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="161px" height="158px" viewBox="0 0 161 158" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>beach-double-corner.se.land.tile</title>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="beach-double-corner.se.land" filter="url(#filter-1)" transform="translate(80.614537, 79.164410) rotate(-60.000000) translate(-80.614537, -79.164410) translate(25.114537, 18.664410)">
+            <g id="Beach-Small">
+                <path d="M96.99447,0.0470053838 L96.9948452,112 L96.97547,112.010005 L0.02146997,56.0340054 L96.99447,0.0470053838 Z" id="Combined-Shape" fill="#64CD72"></path>
+                <path d="M27.64547,40.0866805 L27.6458256,71.75 L27.44347,71.8666805 L0.02146997,56.0346805 L27.64547,40.0866805 Z" id="Combined-Shape" fill="#FAE8C2"></path>
+                <path d="M12.92247,48.575101 L12.9233938,63.25 L12.73047,63.360101 L0.02246997,56.023101 L12.92247,48.575101 Z" id="Combined-Shape" fill="#EEDDB9"></path>
+            </g>
+            <g id="Beach-Small" transform="translate(89.976406, 99.934356) rotate(-120.000000) translate(-89.976406, -99.934356) translate(75.976406, 83.934356)">
+                <path d="M27.64547,0.0866805184 L27.6458256,31.75 L27.44347,31.8666805 L0.02146997,16.0346805 L27.64547,0.0866805184 Z" id="Combined-Shape" fill="#FAE8C2"></path>
+                <path d="M12.9238491,8.58318063 L12.9247729,23.2580796 L12.7318491,23.3681806 L0.023849095,16.0311806 L12.9238491,8.58318063 Z" id="Combined-Shape" fill="#EEDDB9"></path>
+            </g>
+        </g>
+    </g>
+</svg>

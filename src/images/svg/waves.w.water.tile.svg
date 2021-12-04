@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="148px" height="140px" viewBox="0 0 148 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>waves.w.water.tile</title>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="waves.w.water" filter="url(#filter-1)" transform="translate(0.790000, -0.000322)">
+            <path d="M121.973,14 L121.973375,125.952995 L121.954,125.963 L25,69.987 L121.973,14 Z" id="Combined-Shape" fill="#2679F6" transform="translate(73.486688, 69.982051) rotate(-300.000000) translate(-73.486688, -69.982051) "></path>
+            <path d="M56.7614657,63.0003222 C63.147556,63.0003222 66.7904768,61.0003222 67.690228,57.0003222 C70.5849052,61.0003222 74.2753177,63.0003222 78.7614657,63.0003222" id="Path" stroke="#FFFFFF" stroke-width="3"></path>
+            <path d="M105.761466,87.0003222 C112.147556,87.0003222 115.790477,85.0003222 116.690228,81.0003222 C119.584905,85.0003222 123.275318,87.0003222 127.761466,87.0003222" id="Path" stroke="#FFFFFF" stroke-width="3"></path>
+            <path d="M65.7614657,108.000322 C72.147556,108.000322 75.7904768,106.000322 76.690228,102.000322 C79.5849052,106.000322 83.2753177,108.000322 87.7614657,108.000322" id="Path" stroke="#FFFFFF" stroke-width="3"></path>
+        </g>
+    </g>
+</svg>

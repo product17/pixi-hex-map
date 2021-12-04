@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="141px" viewBox="0 0 147 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>beach.nw.land.tile</title>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="beach.nw.land" filter="url(#filter-1)" transform="translate(73.180435, 70.752232) rotate(-120.000000) translate(-73.180435, -70.752232) translate(24.680435, 14.252232)">
+            <path d="M96.99447,0.0470053838 L96.9948452,112 L96.97547,112.010005 L84,104.517005 L84,104.501005 L84.0044642,104.5 L84.00347,7.54800538 L84,7.55000538 L84,7.54900538 L96.99447,0.0470053838 Z" id="Combined-Shape" fill="#EEDDB9"></path>
+            <path d="M84.00347,7.54800538 L84.0044642,104.5 L83.98447,104.510005 L69,95.8590054 L69,16.2100054 L84.00347,7.54800538 Z" id="Combined-Shape" fill="#FAE8C2"></path>
+            <path d="M69.28147,16.0470054 L69.2820323,96 L69.26247,96.0100054 L0.02146997,56.0340054 L69.28147,16.0470054 Z" id="Combined-Shape" fill="#64CD72"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+.action-list {
+  position: absolute;
+  right: 0;
+  width: 200px;
+  height: 200px;
+  background-color: #cdcdcd;
+}
+
+.tile-btn {
+  width: 52;
+  height: 60;
+}

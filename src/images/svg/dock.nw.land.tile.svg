@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="141px" viewBox="0 0 147 141" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dock.nw.land.tile</title>
+    <defs>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dock.nw.land" filter="url(#filter-1)" transform="translate(73.180435, 70.752232) rotate(-120.000000) translate(-73.180435, -70.752232) translate(24.680435, 14.252232)">
+            <g id="Group-9" transform="translate(0.000000, 0.000000)">
+                <path d="M96.973,0.0240446364 L96.9733753,111.977039 L96.954,111.987045 L0,56.0110446 L96.973,0.0240446364 Z" id="Combined-Shape" fill="#2679F6"></path>
+                <path d="M96.9999975,-0.00372580285 L97,0.0240446364 L97,0.0240446364 C97,15.0240446 82,33.0240446 79,48.0240446 C76.0010478,63.0188057 96.9853338,94.0023922 96.9999923,112.00518 L96.9736778,111.991045 L96.9733753,111.968365 L96.9733753,111.968365 L96.954,111.979 L3,57.735 L3,54.271 L96.9999975,-0.00372580285 Z" id="Combined-Shape" fill="#EEDDB9"></path>
+                <g id="Base-Beach" transform="translate(0.000000, 7.024045)">
+                    <path d="M84,1 C84,12 69,38.1384627 69,49 C69,59.8719663 84,73 84,97 L84.0002205,97.2244894 C84.0005144,97.3525532 84.0011023,97.4374252 84.0019841,97.4791055 L84.00247,97.5007829 L83.98547,97.5107829 L0.02246997,49.0347829 L84.0013693,0.550158967 C84.0004564,0.628554816 84,0.778501827 84,1 Z" id="Combined-Shape" fill="#FAE8C2"></path>
+                    <path d="M68.99747,9.21123341 L69,9 C69,25 62,36.9585456 62,49 C62,61.5563984 68.9526623,74.9092313 68.9997596,88.8577666 L0.02146997,49.0342334 L68.99747,9.21123341 Z" id="Combined-Shape" fill="#64CD72"></path>
+                </g>
+            </g>
+            <rect id="Rectangle" fill="#C9AB86" x="54" y="45.0240446" width="36" height="23"></rect>
+            <line x1="56.5" y1="45.5240446" x2="56.5" y2="67.5240446" id="Line" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="70.5" y1="45.5240446" x2="70.5" y2="67.5240446" id="Line" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="63.5" y1="45.5240446" x2="63.5" y2="67.5240446" id="Line" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="77.5" y1="45.5240446" x2="77.5" y2="67.5240446" id="Line" stroke="#979797" stroke-linecap="square"></line>
+            <line x1="84.5" y1="45.5240446" x2="84.5" y2="67.5240446" id="Line" stroke="#979797" stroke-linecap="square"></line>
+            <circle id="Oval" stroke="#979797" fill="#C9AB86" cx="86" cy="43.0240446" r="2"></circle>
+            <circle id="Oval" stroke="#979797" fill="#C9AB86" cx="86" cy="70.0240446" r="2"></circle>
+            <circle id="Oval" stroke="#979797" fill="#C9AB86" cx="58" cy="43.0240446" r="2"></circle>
+            <circle id="Oval" stroke="#979797" fill="#C9AB86" cx="58" cy="70.0240446" r="2"></circle>
+        </g>
+    </g>
+</svg>

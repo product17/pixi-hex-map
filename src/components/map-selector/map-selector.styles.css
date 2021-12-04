@@ -1,0 +1,9 @@
+.map-selector {
+  list-style: none;
+  height: 40;
+  line-height: 40px;
+  cursor: pointer;
+}
+.map-selector:hover {
+  text-decoration: underline;
+}
